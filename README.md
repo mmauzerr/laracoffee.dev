@@ -1,0 +1,2 @@
+# laracoffee.dev
+Laravel | SinglePageApp
